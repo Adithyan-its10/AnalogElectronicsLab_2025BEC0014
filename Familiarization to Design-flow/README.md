@@ -66,4 +66,4 @@ Virtuoso, and the inverter was confirmed to function correctly at the schematic
 - DRC report — to be updated (run attempted, not yet clean)
 - LVS report — to be updated (run attempted, not yet clean)
 - Extracted view / post-layout simulation — to be updated
-- Report.pdf — to be updated
+  
