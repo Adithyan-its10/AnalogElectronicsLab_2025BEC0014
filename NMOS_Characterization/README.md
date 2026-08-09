@@ -34,7 +34,7 @@ of Vds and Vgs.
    characteristic curves (`I_vs_Vds_Parametric.png`).
 4. Ran a DC sweep of Vgs (0 → 1.2 V) at a fixed Vds to obtain the transfer
    characteristics (`I_vs_Vgs.png`).
-5. Schematic view captured as `Layout.png`.
+5. Schematic view captured as `Schematic.png`.
 
 ## Files in this folder
 | File | Description |
@@ -66,5 +66,3 @@ extracted I–V curves match expected first-order MOSFET behavior.
 
 ## Status
 - Results/analysis PDF — to be added
-- This folder is being treated as a standalone submission and does not follow the
-  multi-subfolder structure used for other experiments.
