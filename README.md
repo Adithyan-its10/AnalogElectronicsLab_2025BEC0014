@@ -7,6 +7,8 @@ This repository contains the software experiments completed as part of the 3rd-s
 1. **Familiarisation of Design Flow:** Introduction to the Cadence Virtuoso environment and basic design flow steps.
 2. **NMOS Characterization:** Analysis and characterization of NMOS transistor parameters.
 3. **RF Low Pass Filter:** Design and simulation of an RF Low Pass Filter.
+4. **Current Mirror:** Design and simulation of Current Mirror (1mA)
+   
 
 ---
 *Developed at IIIT Kottayam.*
